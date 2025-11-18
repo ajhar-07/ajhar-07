@@ -1,67 +1,34 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=2500&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Fahim+Ajhar+👋;Full-Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;Always+Learning+New+Things+🔥" />
-</p>
+## About Me 
 
-## 🚀 About Me
-Hi! I'm **Fahim Ajhar**, a passionate **MERN Stack Developer** who loves building modern, fast, and user-friendly web applications. I enjoy exploring new tools, solving problems, and creating beautiful UI experiences.
+Hi there! I'm <b>Fahim Ajhar</b>. I'm a passionate Software Developer with a strong focus on <b>MERN Stack Development</b>. I love creating modern, user-friendly web applications and sharing what I learn with others. Outside of coding, I enjoy exploring new technologies and improving my skills every day.
 
-## 📍 Location
-**Sylhet, Beanibazar — Bangladesh**
 
-## 🔧 Technologies & Tools
+<h3>When I code, I rely on</h3>
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+|       Skills Overview        | Technologies                                                                                                                                                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
+| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) |
+| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
-### Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
 
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+## Github Stats
 
-## 🌟 Highlighted Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚑 Emergency Hotline App | A hotline directory for emergency support | JS • HTML • CSS |
-| 🌍 Green Earth Project | Environmental awareness web app | React • Tailwind |
-| 💼 Portfolio Website | My personal developer portfolio | React • Tailwind |
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajhar-07&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajhar-07&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajhar-07&theme=transparent&hide_border=true) |
 
-More projects: https://github.com/ajhar-07?tab=repositories
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajhar-07&theme=react" />
-</p>
+## Contact
+Feel free to reach out to me or connect with me.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajhar-07&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajhar-07&theme=tokyonight" height="165" />
-</p>
+You can find me on:
 
-## ✨ Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajhar-07/ajhar-07/output/github-contribution-grid-snake.svg" />
-</p>
+- **Email**: fahimajhar737@gmail.com
+- **Location**: Sylhet, Beanibazar
+- **Facebook** : https://www.facebook.com/fahim.ajhar.77
+- **Linkedin**: [Click Here](#)
 
-## 🤝 Connect With Me
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:fahimajhar737@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
-
-## 🧠 Quote
-> “Your future is created by what you do today, not tomorrow.”
-
-## 👀 Profile Views
-| Views |
-|-------|
-| <img src="https://komarev.com/ghpvc/?username=ajhar-07&style=for-the-badge&color=blue" /> |
-
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+Let's connect and discuss exciting opportunities!
