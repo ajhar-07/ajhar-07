@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/q3T3MYN6/Gemini-Generated-Image-x6bw5ex6bw5ex6bw.png" alt="Fahim Ajhar Banner" width="100%" />
+  <img src="https://i.ibb.co/sdx33BGn/Gemini-Generated-Image-x6bw5ex6bw5ex6bw.png" alt="Fahim Ajhar Banner" width="100%" />
 </p>
 
 ## About Me 
